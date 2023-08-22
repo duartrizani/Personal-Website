@@ -350,6 +350,13 @@ header .navbar ul li a:hover{
     display: none;
 }
 
+.ptext{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.2rem;
+}
+
 
 
 
